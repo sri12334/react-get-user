@@ -1,0 +1,22 @@
+/* h1 {
+    background-color: rgb(61, 61, 77);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+    height: 80px;
+} */
+
+header {
+    background-color: #134465;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+  
+h1 {
+    margin: 0;
+    font-size: 2em;
+}

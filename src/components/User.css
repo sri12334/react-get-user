@@ -1,0 +1,24 @@
+
+.user-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 16px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  color: antiquewhite;
+}
+
+.user-card h2 {
+  margin-top: 0;
+}
+
+.address, .company {
+  margin-top: 16px;
+}
+
+.icon {
+  margin-right: 4px;
+}
+h2, h3{
+    color: #ffffff;
+}
